@@ -1,0 +1,14 @@
+For at der er tale om KOMPOSITION mellem et led A og B, så skal følgende være opfyldt:
+
+1. A har en/et B, A består af B
+2. B er en del af A
+3. A ejer B
+4. Samme levetid
+
+
+For at der er tale om AGGREGERING mellem et led A og B, så skal følgende være opfyldt:
+
+1. A har en/et B, A består af B
+2. B er en del af A
+3. A ejer IKKE B
+4. IKKE nødvendigvis samme levetid
